@@ -1,5 +1,3 @@
-Sure! Below is a fun and informative write-up for your Python script, formatted in Markdown for easy use on GitHub.
-
 ```markdown
 # 🖼️ Metadata Remover for Images
 

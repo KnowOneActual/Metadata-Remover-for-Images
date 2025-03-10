@@ -40,9 +40,6 @@ Enter the path to save the image without metadata: /path/to/your/photo_no_metada
 ## 🤔 Why Remove Metadata?
 Metadata can contain sensitive information such as location data, camera settings, and other details about your image. By removing it, you can safeguard your privacy and control what information you share.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit a pull request if you have suggestions for improvements or additional features.
-
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
